@@ -1,4 +1,4 @@
-package backJoon.cond;
+package baekJoon.cond.cond;
 import java.util.Scanner;
 
 public class Ex1 {
